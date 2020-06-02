@@ -1,5 +1,4 @@
-# Procedural cave generation
-# with cellular automata
+# Procedural cave generation with cellular automata
 
 ## Intro :
 This is a program to procedurally generate cave systems with cellular automata<br/>
