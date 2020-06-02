@@ -11,4 +11,4 @@ This program is written [LuaJIT](https://luajit.org/luajit.html) and runs on the
 ## Information :
 I learnt the process from [this tutorial](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)<br/>
 This program is licensed under the terms and conditions of the MIT license<br/>
-See [LICENSE](InsertLink) for details
+See [LICENSE](LICENSE) for details
