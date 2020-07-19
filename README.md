@@ -2,7 +2,7 @@
 
 ## Intro :
 This is a program to procedurally generate cave systems with cellular automata<br/>
-This program is written in [LuaJIT](https://luajit.org/luajit.html) and runs on the [LÖVE](https://love2d.org) game engine<br/>
+This program is written in [LuaJIT](https://luajit.org/luajit.html) and runs on [LÖVE](https://love2d.org)<br/>
 
 ## Controls :
 * Click at the left side of the screen or press **n** to generate a new cave
