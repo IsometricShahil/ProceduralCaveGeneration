@@ -14,13 +14,13 @@ local cave = {}
 cave.__index = cave
 
 function cave:getRenderedCanvas() --Renders itself to it's canvas and returns it
-	self.canvas:renderTo(function()
-		for y = 0, self.h - 1 do
-			for x = 0, self.w - 1 do
-				lg.draw(self.imgs[self.data[y][x]], x*self.tw, y*self.th)
-			end
+	lg.setCanvas(self.canvas)
+	for y = 0, self.h - 1 do
+		for x = 0, self.w - 1 do
+			lg.draw(self.imgs[self.data[y][x]], x*self.tw, y*self.th)
 		end
-	end)
+	end
+	lg.setCanvas()
 	
 	return self.canvas
 end
