@@ -1,8 +1,6 @@
 # Procedural cave generation with cellular automata
 
 ## Intro :
-[Here](https://youtu.be/OK84BGDionw) is a clip of this program in action.
-
 This is a program to procedurally generate cave systems with cellular automata<br/>
 This program is written in [LuaJIT](https://luajit.org/luajit.html) and runs on [LÖVE](https://love2d.org)<br/>
 
